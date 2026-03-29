@@ -1,4 +1,8 @@
 # Stock Valuation Screener
+## 📊 Power BI Dashboard
+This dashboard analyzes sales, profit, and profit margins across categories and sub-categories.
+
+![Dashboard](Dashboard.png)
 
 ## Overview
 This project identifies undervalued stocks using Free Cash Flow (FCF) data and a simplified Discounted Cash Flow (DCF) valuation model.
