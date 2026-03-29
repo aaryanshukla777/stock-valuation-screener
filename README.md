@@ -1,5 +1,9 @@
 # Stock Valuation Screener
 ## 📊 Power BI Dashboard
+### 🔍 Key Insights
+- Clothing category has the highest profit margin
+- Furniture generates highest total profit
+- Some sub-categories show low profitability despite high sales
 This dashboard analyzes sales, profit, and profit margins across categories and sub-categories.
 
 ![Dashboard](Dashboard.png)
